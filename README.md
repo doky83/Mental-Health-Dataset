@@ -1,4 +1,5 @@
    ## Mental Health 
+   This Power BI analysis project decodes mental health trends by transforming raw data into actionable insights. Through interactive visualizations and evidence-based analytics, we uncover patterns in mental well-being, identify risk factors, and evaluate intervention effectiveness—empowering stakeholders to make data-driven decisions for better mental health outcomes.
 
   ## Project Overview
 
